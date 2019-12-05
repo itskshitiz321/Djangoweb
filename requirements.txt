@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.8
 django-leaflet==0.24.0
 leaflet==0.0.3
 psycopg2-binary==2.8.3
