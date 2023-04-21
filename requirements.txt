@@ -3,4 +3,4 @@ django-leaflet==0.24.0
 leaflet==0.0.3
 psycopg2-binary==2.8.3
 pytz==2019.2
-sqlparse==0.3.0
+sqlparse==0.4.4
